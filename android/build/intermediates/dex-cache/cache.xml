@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_92282f0725d45430c63d48f8336390c02398ee00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-crashes/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="541fa22f1a22decaf7d22f5507c76e2b892b161f">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-crashes-1.6.1_e541f5b8ba94554cd4f88d54b46523dc1bcb1aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f08793c0bc332df0da8adf50118380dd0f5807ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-analytics/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fbb533c04973254a592ca8da277d90d36441eda">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-analytics-1.6.1_ad127e6021a5a3b7ae4b703b689ec9703fa6b90f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_886a009e7e2cbe1087c22024afccddaab8877da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-crashes/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f1def773f1d12a922dc6c9eddd053f5cc4cce848">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-crashes-unspecified_1c3fdb7217457af5ef4d4d59fea4b307982fd4e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0daa1b820eb14aeeff9c7cd2e1536c83c17e7f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-analytics/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fbb533c04973254a592ca8da277d90d36441eda">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-analytics-1.6.1_2894ff58f5af9bac373945d4d546e389c259a2a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_22a661e44ad5747e7b0d1ee59acc3f52510023ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_c21204e89b6efe270b7d5c877d94e431b9f1ef6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_c31e07c51ffb18d161fdd1b031b944e00c810e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter.reactnative/appcenter-react-native/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="528120a70b465261439d4aa69111c37482894316">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter.reactnative-appcenter-react-native-1.6.0_c49ab42e32cc2ac1e334154b71be0e08b7f6f34c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-analytics/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="077f2cb6ef1de03c5960e307099a9e29e93a72bc">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-analytics-unspecified_afd1062bca940e39bd576938037513addc97ff80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7983ed8bfaab6c3959f9f5f5de692d8d9813dfa0">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/ALARIS-react-native-camera-unspecified_9ca4109b6c01d3a2563ef2092f91b1cfc261ad70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9469876576e0cfa582b4fd6d206b7ddd77b099b4">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-push-unspecified_9bc748d1c14e16efd71cd9a390527b6762de3111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_485224ef968d49aa3e446ba899d4d0d061fc0c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f1b31295be92f01ba61bcf2b9b0bcc31ee1d17ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_7cbe42c14d7eae00612a94cab544849d25d04fd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6c9de499502778bc483a2c2c1a4504590d45e458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3e9c6368eb4714c3880ba3cf905ff3a15b288b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7514064071b88901842f7ceacdbd58d0e08f61d9">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-push-1.6.1_83de9c9db46f9f096234bbd18b1a8dacbac18d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7514064071b88901842f7ceacdbd58d0e08f61d9">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-push-1.6.1_9911c4c0e23bdcdf153efed950892e4db7ff7926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_54004a6a31faa7284c49d8e9e43c03f7bdfeb6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_7728fa0fc125f3cc6498919945da49b7719e18a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e4f8ffdbf8452b8324565d05d9a905c92d81e949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1d61911a1895b2fc08d08545d97e07ea73222067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e40aa84593a7bbba7dd0c4f60d1ed1868d0f6388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_1377dde70153640408341831ccb70d38f4c5d27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/ALARIS/appcenter/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8777f8de08c266e7d9c6499a02e9c928cc806478">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-unspecified_e505d7c82d3679d1b0608bf67508c506555db1e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_3b20262e4cb5abced519ef019c362cecc8466a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-analytics/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="077f2cb6ef1de03c5960e307099a9e29e93a72bc">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-analytics-unspecified_20dbc57c37bd04f030d44570c4b807327f06ef9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a4ff18420a8934a9e3216240ba688ec9282bc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7983ed8bfaab6c3959f9f5f5de692d8d9813dfa0">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/ALARIS-react-native-camera-unspecified_96f048b5af223bb5e274a110bd7bd9c6025576d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_e7870fcbfb6de27a43d49e63cb35e31a3b039fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-crashes/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f1def773f1d12a922dc6c9eddd053f5cc4cce848">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-crashes-unspecified_596c9ea76211fe6e373d2a7203bd717d1e20bcae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-crashes/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="541fa22f1a22decaf7d22f5507c76e2b892b161f">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-crashes-1.6.1_0a12ac291bf61a089eeb616c0a09bad367f16a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_aee21c055da020468d5d36d29ac81cc5ea425f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter.reactnative/appcenter-react-native/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="528120a70b465261439d4aa69111c37482894316">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter.reactnative-appcenter-react-native-1.6.0_41257b63ecfb2a5a7339ab2873921797443d7110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1e82cea99e54d5378b3d32e3a762914c1a8749a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eef37f86d6a8eecddbb8da629a3eda5384f46411">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-1.6.1_4b676addba71701f79416ef120b4ede3a79a6d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9469876576e0cfa582b4fd6d206b7ddd77b099b4">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-push-unspecified_1a9fb14dfda448e69029e9bc10bc2cb92943f94f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_1eff170da7a872344df606fa2da3255b944e7aff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter/1.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eef37f86d6a8eecddbb8da629a3eda5384f46411">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.microsoft.appcenter-appcenter-1.6.1_0ef646517c6d618e8edaa852519c866921e4a9f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_e16dac1d79187ed2b766c7c3d30f8d7cbcf6d384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8777f8de08c266e7d9c6499a02e9c928cc806478">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/ALARIS-appcenter-unspecified_da7b9230ebf73acdc65afd8d6e3be9904edd2e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5f7a3acc9b582f276ae1aa90439c22db235efffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1031680ed8c6fe9ecd5d239388198c1eae63bdf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_46d9bff61ba5ed0ddeb83c77449882e3a2bd1eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a0c6cdf6f60964b4096be63be92f946a1820a596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_5ffd146f97c195cd70b5931aa79885f474ee14f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/alaris/Documents/suite-native-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_dec4db7008b17a50e8a0eafcdc26eba726e5e7c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1b164f948b01a078e3bca4eea7c076373e408861.jar" />
+    </item>
+
+</items>

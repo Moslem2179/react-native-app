@@ -1,0 +1,4 @@
+#Fri Jul 27 15:14:11 MST 2018
+base.0=/home/alaris/Documents/suite-native-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/alaris/Documents/suite-native-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
