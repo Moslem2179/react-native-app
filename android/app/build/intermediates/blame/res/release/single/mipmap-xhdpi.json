@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
         "source": "/home/alaris/Downloads/react-native-app-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }

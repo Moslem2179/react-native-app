@@ -37,11 +37,11 @@
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
-		4403FD07BDAF4AEDB6278B89 /* libAppCenterReactNative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1897DEE6BFBB44CD857299CA /* libAppCenterReactNative.a */; };
-		7B87F46089464D2FADA0CBAB /* libAppCenterReactNativeAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 37A466DEDCE24432ABD1CD4E /* libAppCenterReactNativeAnalytics.a */; };
-		3882045C03244D6693B86D73 /* libAppCenterReactNativeCrashes.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 15BB4D77F21443E7B2734A35 /* libAppCenterReactNativeCrashes.a */; };
-		9B477798BE124764A3AEA804 /* libAppCenterReactNativePush.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F1839B3CE7A4F3F890869DA /* libAppCenterReactNativePush.a */; };
-		1BA499AE8BE746B3B6A63CF3 /* libRCTCamera.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E95EACCEDD2F432E9659857E /* libRCTCamera.a */; };
+		DB5BC46CEC7448CABB24C0B0 /* libAppCenterReactNative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 86696591BDD84A2CA91C7795 /* libAppCenterReactNative.a */; };
+		2A23CD6CEA664DF8BBAC86BA /* libAppCenterReactNativeAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E1183C11D1C8420589D10B64 /* libAppCenterReactNativeAnalytics.a */; };
+		8966809A87614BA68A3F45C4 /* libAppCenterReactNativeCrashes.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 033C142DDAD14B7EBB206651 /* libAppCenterReactNativeCrashes.a */; };
+		E78BE05615EB412DB3226551 /* libAppCenterReactNativePush.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F59CA1D93C4E4F589DDCD826 /* libAppCenterReactNativePush.a */; };
+		01F440B2D5F34B11A2EBA9EE /* libRCTCamera.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B97AC228DD84A3FAA03F2F7 /* libRCTCamera.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -347,16 +347,16 @@
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
-		48E9F0F5369842FDAAD6E526 /* AppCenterReactNative.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNative.xcodeproj"; path = "../node_modules/appcenter/ios/AppCenterReactNative.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
-		1897DEE6BFBB44CD857299CA /* libAppCenterReactNative.a */ = {isa = PBXFileReference; name = "libAppCenterReactNative.a"; path = "libAppCenterReactNative.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
-		7712E3F9BE6447F6BE83F458 /* AppCenterReactNativeAnalytics.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNativeAnalytics.xcodeproj"; path = "../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
-		37A466DEDCE24432ABD1CD4E /* libAppCenterReactNativeAnalytics.a */ = {isa = PBXFileReference; name = "libAppCenterReactNativeAnalytics.a"; path = "libAppCenterReactNativeAnalytics.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
-		57CA420CD26C449188ACEE64 /* AppCenterReactNativeCrashes.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNativeCrashes.xcodeproj"; path = "../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
-		15BB4D77F21443E7B2734A35 /* libAppCenterReactNativeCrashes.a */ = {isa = PBXFileReference; name = "libAppCenterReactNativeCrashes.a"; path = "libAppCenterReactNativeCrashes.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
-		5717FD6D8E314AE88880F569 /* AppCenterReactNativePush.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNativePush.xcodeproj"; path = "../node_modules/appcenter-push/ios/AppCenterReactNativePush.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
-		8F1839B3CE7A4F3F890869DA /* libAppCenterReactNativePush.a */ = {isa = PBXFileReference; name = "libAppCenterReactNativePush.a"; path = "libAppCenterReactNativePush.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
-		C98B384CCBE64AFBA1CC4924 /* RCTCamera.xcodeproj */ = {isa = PBXFileReference; name = "RCTCamera.xcodeproj"; path = "../node_modules/react-native-camera/ios/RCTCamera.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
-		E95EACCEDD2F432E9659857E /* libRCTCamera.a */ = {isa = PBXFileReference; name = "libRCTCamera.a"; path = "libRCTCamera.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		96C91400ECEE4DC3807FEB4C /* AppCenterReactNative.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNative.xcodeproj"; path = "../node_modules/appcenter/ios/AppCenterReactNative.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		86696591BDD84A2CA91C7795 /* libAppCenterReactNative.a */ = {isa = PBXFileReference; name = "libAppCenterReactNative.a"; path = "libAppCenterReactNative.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		8B0D9B8D25294504BA399F08 /* AppCenterReactNativeAnalytics.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNativeAnalytics.xcodeproj"; path = "../node_modules/appcenter-analytics/ios/AppCenterReactNativeAnalytics.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		E1183C11D1C8420589D10B64 /* libAppCenterReactNativeAnalytics.a */ = {isa = PBXFileReference; name = "libAppCenterReactNativeAnalytics.a"; path = "libAppCenterReactNativeAnalytics.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		9AAD66EFB1B24D2CBC652E89 /* AppCenterReactNativeCrashes.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNativeCrashes.xcodeproj"; path = "../node_modules/appcenter-crashes/ios/AppCenterReactNativeCrashes.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		033C142DDAD14B7EBB206651 /* libAppCenterReactNativeCrashes.a */ = {isa = PBXFileReference; name = "libAppCenterReactNativeCrashes.a"; path = "libAppCenterReactNativeCrashes.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		ACC230B9E1FF46A9A33ECB73 /* AppCenterReactNativePush.xcodeproj */ = {isa = PBXFileReference; name = "AppCenterReactNativePush.xcodeproj"; path = "../node_modules/appcenter-push/ios/AppCenterReactNativePush.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		F59CA1D93C4E4F589DDCD826 /* libAppCenterReactNativePush.a */ = {isa = PBXFileReference; name = "libAppCenterReactNativePush.a"; path = "libAppCenterReactNativePush.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		79FC8F981AC74D1293D7F127 /* RCTCamera.xcodeproj */ = {isa = PBXFileReference; name = "RCTCamera.xcodeproj"; path = "../node_modules/react-native-camera/ios/RCTCamera.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		4B97AC228DD84A3FAA03F2F7 /* libRCTCamera.a */ = {isa = PBXFileReference; name = "libRCTCamera.a"; path = "libRCTCamera.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -385,11 +385,11 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
-				4403FD07BDAF4AEDB6278B89 /* libAppCenterReactNative.a in Frameworks */,
-				7B87F46089464D2FADA0CBAB /* libAppCenterReactNativeAnalytics.a in Frameworks */,
-				3882045C03244D6693B86D73 /* libAppCenterReactNativeCrashes.a in Frameworks */,
-				9B477798BE124764A3AEA804 /* libAppCenterReactNativePush.a in Frameworks */,
-				1BA499AE8BE746B3B6A63CF3 /* libRCTCamera.a in Frameworks */,
+				DB5BC46CEC7448CABB24C0B0 /* libAppCenterReactNative.a in Frameworks */,
+				2A23CD6CEA664DF8BBAC86BA /* libAppCenterReactNativeAnalytics.a in Frameworks */,
+				8966809A87614BA68A3F45C4 /* libAppCenterReactNativeCrashes.a in Frameworks */,
+				E78BE05615EB412DB3226551 /* libAppCenterReactNativePush.a in Frameworks */,
+				01F440B2D5F34B11A2EBA9EE /* libRCTCamera.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -576,11 +576,11 @@
 				832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */,
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
-				48E9F0F5369842FDAAD6E526 /* AppCenterReactNative.xcodeproj */,
-				7712E3F9BE6447F6BE83F458 /* AppCenterReactNativeAnalytics.xcodeproj */,
-				57CA420CD26C449188ACEE64 /* AppCenterReactNativeCrashes.xcodeproj */,
-				5717FD6D8E314AE88880F569 /* AppCenterReactNativePush.xcodeproj */,
-				C98B384CCBE64AFBA1CC4924 /* RCTCamera.xcodeproj */,
+				96C91400ECEE4DC3807FEB4C /* AppCenterReactNative.xcodeproj */,
+				8B0D9B8D25294504BA399F08 /* AppCenterReactNativeAnalytics.xcodeproj */,
+				9AAD66EFB1B24D2CBC652E89 /* AppCenterReactNativeCrashes.xcodeproj */,
+				ACC230B9E1FF46A9A33ECB73 /* AppCenterReactNativePush.xcodeproj */,
+				79FC8F981AC74D1293D7F127 /* RCTCamera.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
