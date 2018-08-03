@@ -9,10 +9,10 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

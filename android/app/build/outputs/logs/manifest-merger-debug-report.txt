@@ -15,22 +15,22 @@ ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidM
 		INJECTED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.microsoft.appcenter:appcenter:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter/1.6.1/AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.6.1] /root/.android/build-cache/2af56f90261e7ebff6d56ccf6b8afd3d0f43d697/output/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:19:5-38:19
-MERGED from [com.facebook.react:react-native:0.55.4] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:19:5-38:19
+MERGED from [com.facebook.react:react-native:0.55.4] /root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /root/.android/build-cache/571f61bef797729de1e3fdc3c37fb5b6b6cd716f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.android/build-cache/68b43a8240947552ea4c8d2f3376f748aa8f4e9f/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /root/.android/build-cache/63fc0ccedb770e7bc9bc59292d6c21558710f3d7/output/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:allowBackup
@@ -67,27 +67,27 @@ ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidM
 		ADDED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [ALARIS:appcenter-push:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-push/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:8:5-10:41
-MERGED from [ALARIS:appcenter-crashes:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-crashes/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.microsoft.appcenter:appcenter-crashes:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-crashes/1.6.1/AndroidManifest.xml:7:5-9:41
-MERGED from [ALARIS:appcenter-analytics:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter-analytics/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.microsoft.appcenter:appcenter-analytics:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-analytics/1.6.1/AndroidManifest.xml:7:5-9:41
-MERGED from [ALARIS:appcenter:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/appcenter/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.6.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter.reactnative/appcenter-react-native/1.6.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.microsoft.appcenter:appcenter:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter/1.6.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [ALARIS:appcenter-push:unspecified] /home/alaris/Documents/suite-native-app/node_modules/appcenter-push/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:8:5-10:41
+MERGED from [ALARIS:appcenter-crashes:unspecified] /home/alaris/Documents/suite-native-app/node_modules/appcenter-crashes/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.6.1] /root/.android/build-cache/7d2fa7dbece8f9c99cf95f8c37048f07899d7ab0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [ALARIS:appcenter-analytics:unspecified] /home/alaris/Documents/suite-native-app/node_modules/appcenter-analytics/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.6.1] /root/.android/build-cache/43d6dae7e6a1eaaa3fc38ba99da41b536db85664/output/AndroidManifest.xml:7:5-9:41
+MERGED from [ALARIS:appcenter:unspecified] /home/alaris/Documents/suite-native-app/node_modules/appcenter/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.6.0] /root/.android/build-cache/c5aa7393cce2b50d9c2cec47c40a6378d99e3efd/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.6.1] /root/.android/build-cache/2af56f90261e7ebff6d56ccf6b8afd3d0f43d697/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /root/.android/build-cache/571f61bef797729de1e3fdc3c37fb5b6b6cd716f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /root/.android/build-cache/b3c7cb22ecd3599d7fb327c700220037a7213252/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /root/.android/build-cache/e117e179accb8646d290462868fc9baf4af12f46/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /root/.android/build-cache/9f761183fb8e74d64805e0754170bd1a5f181b48/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /root/.android/build-cache/dfd350aea2bd7c982345ce7d5b5cfa56577f5882/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /root/.android/build-cache/43f5d5e11c2cb3fea14457cf65afbb1af191a04a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /root/.android/build-cache/741e12276ccb588ac7be98529aca48fdc67327bf/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /root/.android/build-cache/cbdd0c773659facbb41b9d18c360aa3e1fcd689f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /root/.android/build-cache/68b43a8240947552ea4c8d2f3376f748aa8f4e9f/output/AndroidManifest.xml:2:3-70
 	android:targetSdkVersion
 		INJECTED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml
@@ -95,74 +95,74 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /home/alaris/Documents/suite-
 		INJECTED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:11:5-65
+ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:11:22-62
+		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:22-62
 uses-feature#android.hardware.camera
-ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:13:5-15:36
+ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:13:5-15:36
 	android:required
-		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:15:9-33
+		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:15:9-33
 	android:name
-		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:14:9-47
+		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:14:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:16:5-18:36
+ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:16:5-18:36
 	android:required
-		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:18:9-33
+		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:18:9-33
 	android:name
-		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/ALARIS/react-native-camera/unspecified/AndroidManifest.xml:17:9-57
+		ADDED from [ALARIS:react-native-camera:unspecified] /home/alaris/Documents/suite-native-app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:17:9-57
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:12:5-82
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:12:5-82
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:12:22-79
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:12:22-79
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:13:5-79
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:13:5-79
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:13:22-76
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:13:22-76
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:15:5-17:47
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:15:5-17:47
 	android:protectionLevel
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:17:9-44
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:17:9-44
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:16:9-63
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:16:9-63
 receiver#com.microsoft.appcenter.push.PushReceiver
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:20:9-29:20
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:20:9-29:20
 	android:permission
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:22:13-73
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:22:13-73
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:21:13-69
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:21:13-69
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:23:13-28:29
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:23:13-28:29
 action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:24:17-86
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:24:17-86
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:24:25-83
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:24:25-83
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:25:17-81
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:25:17-81
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:25:25-78
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:25:25-78
 category#${applicationId}
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:27:17-61
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:27:17-61
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:27:27-58
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:27:27-58
 service#com.microsoft.appcenter.push.TokenService
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:31:9-37:19
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:31:9-37:19
 	tools:ignore
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:33:13-43
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:33:13-43
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:32:13-69
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:32:13-69
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:34:13-36:29
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:34:13-36:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:35:17-80
+ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:35:17-80
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter-push/1.6.1/AndroidManifest.xml:35:25-77
+		ADDED from [com.microsoft.appcenter:appcenter-push:1.6.1] /root/.android/build-cache/74569810189721ff8b83fb46fe30c878b2449ea6/output/AndroidManifest.xml:35:25-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.microsoft.appcenter:appcenter:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter/1.6.1/AndroidManifest.xml:12:5-79
+ADDED from [com.microsoft.appcenter:appcenter:1.6.1] /root/.android/build-cache/2af56f90261e7ebff6d56ccf6b8afd3d0f43d697/output/AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from [com.microsoft.appcenter:appcenter:1.6.1] /home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.microsoft.appcenter/appcenter/1.6.1/AndroidManifest.xml:12:22-76
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+		ADDED from [com.microsoft.appcenter:appcenter:1.6.1] /root/.android/build-cache/2af56f90261e7ebff6d56ccf6b8afd3d0f43d697/output/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_PHONE_STATE
+uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /home/alaris/Documents/suite-native-app/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

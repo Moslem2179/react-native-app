@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+        "source": "/root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/res/xml/preferences.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",

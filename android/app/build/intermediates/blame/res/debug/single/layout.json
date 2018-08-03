@@ -1,11 +1,11 @@
 [
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
@@ -13,15 +13,15 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/fps_view.xml"
+        "source": "/root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/res/layout/fps_view.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
@@ -41,11 +41,11 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -53,15 +53,15 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -69,23 +69,23 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -101,11 +101,11 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -129,7 +129,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/redbox_view.xml"
+        "source": "/root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/res/layout/redbox_view.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
@@ -145,7 +145,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
@@ -165,7 +165,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -181,19 +181,19 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -213,11 +213,11 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/redbox_item_frame.xml"
+        "source": "/root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -249,11 +249,11 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/dev_loading_view.xml"
+        "source": "/root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -261,23 +261,23 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/redbox_item_title.xml"
+        "source": "/root/.android/build-cache/108c7b81a4f5639a7a00171bebd8842b1758ac44/output/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
@@ -285,7 +285,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -293,15 +293,15 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -309,11 +309,11 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/notification_template_lines.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
@@ -321,7 +321,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",

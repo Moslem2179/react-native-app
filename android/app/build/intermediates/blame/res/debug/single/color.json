@@ -1,7 +1,7 @@
 [
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
@@ -21,7 +21,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
@@ -29,7 +29,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
@@ -37,7 +37,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
@@ -49,7 +49,7 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "/home/alaris/Downloads/react-native-app-master/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
@@ -57,18 +57,18 @@
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/alaris/Documents/suite-native-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+        "source": "/root/.android/build-cache/6510070f0a6b0901d8b2999806dcace0134af434/output/res/color/switch_thumb_material_light.xml"
     }
 ]
