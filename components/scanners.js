@@ -24,9 +24,9 @@ export default class BarcodeScan extends Component {
 
     render() {
         return (
-            <View style={styles.container}>
+            <View style={{position: 'absolute', width: 650, height: 600, right: 0, bottom: 0}}>
                 <Camera
-                    style={styles.preview}
+                    style={{position: 'absolute', width: 650, height: 600, right: 0, bottom: 0}}
                     onBarCodeRead={this.onBarCodeRead}
                     ref={cam => this.camera = cam}
                     aspect={Camera.constants.Aspect.fill}
@@ -49,7 +49,11 @@ const styles = StyleSheet.create({
     },
     preview: {
         flex: 1,
-        justifyContent: 'flex-end',
-        alignItems: 'center',
+        height: 30,
+        position: 'absolute', 
+        flexDirection: 'row',
+        bottom: 0,
+        justifyContent: 'space-between',
+        alignItems: 'center'
     }
 });
