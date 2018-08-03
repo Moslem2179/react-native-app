@@ -33,7 +33,8 @@ export default class BarcodeScan extends Component {
                 >
                     <Text style={{
                         backgroundColor: 'white'
-                    }}>{this.state.barcodeData} and {this.state.barcodeType}</Text>
+                    }}> BarcodeNumber: {this.state.barcodeData} and Barcode Type is: {this.state.barcodeType}
+                    </Text>
                 </Camera>
             </View>
         )
@@ -49,6 +50,6 @@ const styles = StyleSheet.create({
     preview: {
         flex: 1,
         justifyContent: 'flex-end',
-        alignItems: 'center'
+        alignItems: 'center',
     }
 });
